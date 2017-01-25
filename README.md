@@ -1,7 +1,7 @@
 # Asynger
 Execute asynchronous commands
 
-Usage: Asynger.exe <textfile>
+Usage: Asynger.exe \<textfile\>
 
 
 # Textfile example
